@@ -1,5 +1,4 @@
 #/bin/bash
-npm run prestart:prod
 docker stop shijh.node
 docker rm shijh.node
 docker rmi shijh.node
