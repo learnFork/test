@@ -1,7 +1,7 @@
 #/bin/bash
-# docker stop shijh.node
-# docker rm shijh.node
-# docker rmi shijh.node
+docker stop shijh.node
+docker rm shijh.node
+docker rmi shijh.node
 
 docker build -t shijh.node .
 
