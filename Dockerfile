@@ -1,6 +1,6 @@
 FROM registry.iting.top:5000/node
 MAINTAINER 755836844@qq.com
-# RUN apt-get update -y
+RUN apt-get update -y
 # RUN apt-get upgrade -y
 
 
